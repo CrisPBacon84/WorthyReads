@@ -1,8 +1,27 @@
-# Worthy Reads
+# Worthy Reads 📚
 
-This app was made for appeofiesta hackathon organized by GDSC at MMDU, Mullana and we won 1st Prize.
-Worthy Reads recommends good books and helps you keep track of books you are reading/planning to read.
+## 📖 Project Overview  
+**Worthy Reads** is a book recommendation and tracking application developed for the **Appeofista Hackathon** organized by **GDSC at MMDU, Mullana**, where it secured **1st Prize**. The app helps users discover great books and keep track of what they are currently reading, have completed, or plan to read.
 
-This app uses firebase_auth and google_sign_in for user authentication and http for getting data from the api that we have created.
+## 🛠️ Technologies Used  
+- Flutter  
+- Dart  
+- Firebase Authentication  
+- Google Sign-In  
+- HTTP (for API integration)  
+- Custom-built Book Recommendation API ([worthy-reads-api](#))
 
-[worthy-reads-api](https://github.com/vxsparsh/WorthyReads/tree/main/book-api)
+## ✨ Features  
+- User authentication using Firebase and Google Sign-In  
+- Personalized book recommendations fetched from a custom API  
+- Manage reading status: Reading / Completed / Planned  
+- Clean and intuitive mobile-first UI  
+- Secure, lightweight, and scalable structure  
+
+## ▶️ How to Run  
+1. Clone or download the repository  
+2. Set up your Firebase project and add your configuration files  
+
+## 🏆 Achievements  
+- 🥇 **1st Prize Winner** at **Appeofista Hackathon** (organized by GDSC MMDU, Mullana)
+
